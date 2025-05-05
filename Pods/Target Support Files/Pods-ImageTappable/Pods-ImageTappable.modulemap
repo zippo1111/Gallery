@@ -1,0 +1,6 @@
+framework module Pods_ImageTappable {
+  umbrella header "Pods-ImageTappable-umbrella.h"
+
+  export *
+  module * { export * }
+}
